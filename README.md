@@ -1,4 +1,4 @@
-[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Hector+David;Welcome+to+my+Github+profile;)](https://git.io/typing-svg)
+[![Typing Animation Displays My Roles](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hello+I'm+Hector+David;Welcome+to+my+Github+profile;)]()
 
 <h3>Glad to see you here!</h3>
 
