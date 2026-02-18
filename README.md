@@ -3,21 +3,20 @@
 <h3>Glad to see you here!</h3>
 
 <p>
-  I'm Hector David, a Systems Engineering student at UNI (National University of Engineering, Peru) 🇵🇪. I am a passionate learner dedicated to solving real-world problems through technology 🚀. Currently, my focus is on Full-stack Development 🕸️ and Machine Learning 🤖, always seeking to explore and implement innovative solutions ✨.
+I'm Hector David, a Systems Engineering student at UNI (National University of Engineering, Peru) 🇵🇪. I am a passionate learner dedicated to solving real-world problems through technology 🚀. Currently, my focus is on Full-stack Development 🕸️ and Odoo Development ⚙️, always seeking to explore and implement innovative solutions ✨.
 </p>
 
 <h3>Talking about personal stuffs:</h3>
 
 <ul>
   <li>👨🏽‍💻 I’m currently working on improving my systems engineering skills and personal projects 😉</li>
-  <li>🌱 I’m currently learning <b>Full-stack development</b> and <b>Machine Learning</b> 🤓</li>
+  <li>🌱 I’m currently learning <b>Full-stack development</b> and <b>Odoo Developmen</b> 🤓</li>
   <li>💬 Ask me about anything <a href="https://github.com/Hector-0-0/Hector-0-0/issues"><b>here</b></a> 🔭</li>
   <li>📫 How to reach me: <a href="https://linkedin.com/in/h%C3%A9ctor-david-flores-s%C3%A1nchez-76b636354/"><b>LinkedIn</b></a> or <a href="https://mail.google.com/mail/?view=cm&fs=1&to=floressanchezhectordavid@gmail.com"><b>Email</b></a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/h%C3%A9ctor-david-flores-s%C3%A1nchez-76b636354/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
   <a href="https://x.com/HectorD32752" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
   <a href="https://www.facebook.com/hectordavid.floressanchez.9?locale=es_LA" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" height="30" width="40" /></a>
   <a href="https://www.instagram.com/_hector_0_0/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
