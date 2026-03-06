@@ -11,7 +11,7 @@ I'm Hector David, a Systems Engineering student at UNI (National University of E
 <ul>
   <li>👨🏽‍💻 I’m currently working on improving my systems engineering skills and personal projects 😉</li>
   <li>🌱 I’m currently learning <b>Full-stack development</b> and <b>Odoo Development</b> 🤓</li>
-  <li>📫 How to reach me: <a href="https://linkedin.com/in/h%C3%A9ctor-david-flores-s%C3%A1nchez-76b636354/"><b>LinkedIn</b></a> or <a href="https://mail.google.com/mail/?view=cm&fs=1&to=floressanchezhectordavid@gmail.com"><b>Email</b></a></li>
+  <li>📫 How to reach me: <a href="https://linkedin.com/in/h%C3%A9ctor-david-flores-s%C3%A1nchez-76b636354/"><b>LinkedIn</b></a> or <a href="https://mail.google.com/mail/?view=cm&fs=1&to=hector.d.flores.s@gmail.com"><b>Email</b></a></li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
